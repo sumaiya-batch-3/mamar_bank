@@ -3,7 +3,7 @@ certifi
 crispy-bootstrap5
 distlib
 Django
-dj-database-url==0.5.0
+dj-database-url
 django-crispy-forms
 django-email
 django-environ
