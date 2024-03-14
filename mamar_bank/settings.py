@@ -113,7 +113,7 @@ DATABASES = {
 DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
-        default='postgres://mamarbank_hnqe_user:0Qxr6wdDexysKPl9FTcYNJ71oAiWIenJ@dpg-cnob647jbltc739uuu90-a.oregon-postgres.render.com/mamarbank_hnqe',
+        default='postgres://mamarbank_3rka_user:zVOoiSjbhblDMpHlLwQt9xq5xYNB8Rzp@dpg-cnpk2lgl5elc73cni4kg-a.oregon-postgres.render.com/mamarbank_3rka',
         
     )
 }
